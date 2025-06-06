@@ -8,7 +8,11 @@ width="640x360px"
 style="padding-right: 10px;"
 src="https://i.pinimg.com/originals/d3/b0/4e/d3b04eab1e692340264cfc7ca11c8a7d.gif">
 ### **Meu nome é:** PEDRO O MITO e sou um cara muito legal! Eu tenho um canal no youtube chamado:"[PEDROOMITO](https://www.youtube.com/@pedroomito)" e nele eu gravo videos de jogos. Sou autista e fã da banda "Black Eyed Peas". Eu gosto muito de One Piece e South Park.
-
+<div>
+<a href="https://github.com/PEDROOMITO">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PEDROOMITO">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEDROOMITO">
+</div> 
 #
 <img
 align="middle"
@@ -100,3 +104,4 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"
 />
+![Snake animation](https://github.com/PEDROOMITO/PEDROOMITO/blob/output/github-contribution-grid-snake.svg)
