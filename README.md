@@ -106,6 +106,12 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"
 />
 
-<img src="https://raw.githubusercontent.com/PEDROOMITO/PEDROOMITO/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PEDROOMITO/PEDROOMITO/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PEDROOMITO/PEDROOMITO/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PEDROOMITO/PEDROOMITO/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ###
